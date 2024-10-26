@@ -1,0 +1,1 @@
+<?php /**PATH /home/devziaus/htdocs/zstudio/resources/views/layouts/frontendsidebar.blade.php ENDPATH**/ ?>
